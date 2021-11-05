@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(242, 255, 196);
+}
+#primer_float{
+    margin-left: 25px;
+    margin-bottom:25px;
+    float: left;
+    text-align: center;
+    color: rgba(0, 194, 219, 0.856);
+    border-style: groove;
+    border-color: rgb(190, 202, 12);
+    font-style: italic;
+}
+.lorem{
+    text-align: left;
+    color:rgb(161, 80, 80);
+    margin-left: 0.5cm;
+}
+#img1{
+    position: absolute;
+top: 400px; left: 700px;
+}
+
+#img2{
+    position: left;
+}
